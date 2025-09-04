@@ -12,9 +12,7 @@
 
 
 ### About Me 🌐
-Dynamic and versatile professional with a B.Tech in Artificial Intelligence & Data Science, offering a unique blend of skills as a Full Stack Developer and Data Analyst. Hands-on experience building scalable, secure web applications using Django, HTML/CSS, JavaScript, and RESTful APIs, while also excelling in data cleaning, analysis, and visualization with Python, SQL, and Excel. Adept in both front-end and back-end development with strong database knowledge (MySQL, PostgreSQL) and expertise in version control systems.
-
-Highly skilled in statistical analysis, predictive modeling, and dashboard creation with Power BI and Tableau. Capable of troubleshooting, debugging, and upgrading applications, implementing modular design and clean code practices, and executing ETL processes for actionable business intelligence. Proven track record in trend forecasting, business reporting, and delivering data-driven insights to enhance decision-making. Committed to staying current with emerging technologies and contributing effectively in agile, collaborative environments.
+Versatile tech professional with a B.Tech in AI & Data Science, skilled in Full Stack development (Django, HTML/CSS, JavaScript, REST APIs) and data analytics (Python, SQL, Excel). Experienced in building secure web apps, database management, and creating visual insights with Power BI and Tableau. Strong in troubleshooting, modular design, predictive modeling, and trend forecasting, with proven ability to deliver data-driven solutions in agile teams.
 
 ### Tech Toolbox 🛠️
 - **Languages:** Python, SQL, JavaScript, R
