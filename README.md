@@ -1,9 +1,10 @@
 <h1 align="center">Hi 👋, I'm Sanjay R!</h1>
 <h3 align="center">🎲 Full Stack Developer | 📈 Data Analyst | 🚀 AI/ML Engineer | Cloud Enthusiast</h3>
 
+
 - 🌱 I’m currently learning **Data Structures and Algorithm, Flutter, Dart**
 
-- 👨‍💻 All of my projects are available at [https://sanjay-personal-portfolio.onrender.com](https://sanjay-personal-portfolio.onrender.com)
+- 👨‍💻 All of my projects are available at [My Portfolio](https://sanjay-personal-portfolio.onrender.com)
 
 - 💬 About me **Versatile tech professional with a B.Tech in AI & Data Science, skilled in Full Stack development (Django, HTML/CSS, JavaScript, REST APIs) and data analytics (Python, SQL, Excel). Experienced in building secure web apps, database management, and creating visual insights with Power BI and Tableau. Strong in troubleshooting, modular design, predictive modeling, and trend forecasting, with proven ability to deliver data-driven solutions in agile teams.**
 
