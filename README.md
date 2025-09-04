@@ -4,11 +4,11 @@
 
 📧 **Email:** [sanjay223060@gmail.com](mailto:sanjay223060@gmail.com)  
 🔗 **LinkedIn:** [Sanjay_R33](https://www.linkedin.com/in/sanjayr33)  
-🎗️ **Portfolio** [Sanjay R](https://sanjay-personal-portfolio.onrender.com/)
-🧑‍💻 **Leetcode** [Sanjay_r_33](https://leetcode.com/u/sanjay_r_33/)
-🖥️ **Hackerrank** [Sanjay223060](https://www.hackerrank.com/profile/sanjay223060)
-👨‍🍳 **Codechef** [Sanjay_r_33](https://www.codechef.com/users/sanjay_r_33)
-🖼️ **Code360** [Sanjay R]( https://www.naukri.com/code360/profile/0b5896c7-ce8c-4307-bbe7-694b9f5c5e19)
+🎗️ **Portfolio** [Sanjay R](https://sanjay-personal-portfolio.onrender.com/)  
+🧑‍💻 **Leetcode** [Sanjay_r_33](https://leetcode.com/u/sanjay_r_33/)  
+🖥️ **Hackerrank** [Sanjay223060](https://www.hackerrank.com/profile/sanjay223060)  
+👨‍🍳 **Codechef** [Sanjay_r_33](https://www.codechef.com/users/sanjay_r_33)  
+🖼️ **Code360** [Sanjay R]( https://www.naukri.com/code360/profile/0b5896c7-ce8c-4307-bbe7-694b9f5c5e19)  
 
 
 ### About Me 🌐
