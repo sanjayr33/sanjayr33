@@ -3,7 +3,6 @@
 
 
 📧 **Email:** [sanjay223060@gmail.com](mailto:sanjay223060@gmail.com)  
-🎗️ **Portfolio**  [Sanjay R](https://sanjay-personal-portfolio.onrender.com/)
 🔗 **LinkedIn:**  [Sanjay_R33](https://www.linkedin.com/in/sanjayr33)  
 🎗️ **Portfolio**  [Sanjay R](https://sanjay-personal-portfolio.onrender.com/)
 
