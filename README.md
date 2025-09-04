@@ -2,7 +2,7 @@
 
 ## 🎲 Full Stack Developer 
 ## 📈 Data Analyst
-## 🚀 AI/ML Engineer focusing on applied AI
+## 🚀 AI/ML Engineer
 
 📍 **India**  
 📧 **Email:** [sanjay223060@gmail.com](mailto:sanjay223060@gmail.com)  
