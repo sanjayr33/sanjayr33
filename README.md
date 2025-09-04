@@ -6,15 +6,13 @@
 
 - 👨‍💻 All of my projects are available at [My Portfolio](https://sanjay-personal-portfolio.onrender.com)
 
-- 💬 About me **Versatile tech professional with a B.Tech in AI & Data Science, skilled in Full Stack development (Django, HTML/CSS, JavaScript, REST APIs) and data analytics (Python, SQL, Excel). Experienced in building secure web apps, database management, and creating visual insights with Power BI and Tableau. Strong in troubleshooting, modular design, predictive modeling, and trend forecasting, with proven ability to deliver data-driven solutions in agile teams.**
+- 💬 About me
+- **Versatile tech professional with a B.Tech in AI & Data Science, skilled in Full Stack development (Django, HTML/CSS, JavaScript, REST APIs) and data analytics (Python, SQL, Excel). Experienced in building secure web apps, database management, and creating visual insights with Power BI and Tableau. Strong in troubleshooting, modular design, predictive modeling, and trend forecasting, with proven ability to deliver data-driven solutions in agile teams.**
 
 - 📫 How to reach me **sanjay223060@gmail.com**
 
-- 📄 Know about my experiences [https://sanjay-personal-portfolio.onrender.com/assets/SANJAY_R_RESUME.pdf](https://sanjay-personal-portfolio.onrender.com/assets/SANJAY_R_RESUME.pdf)
+- 📄 Know about my experiences [My RESUME](https://sanjay-personal-portfolio.onrender.com/assets/SANJAY_R_RESUME.pdf)
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
