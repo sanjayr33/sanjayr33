@@ -1,8 +1,8 @@
 # 👋 Hello, I'm Sanjay R!
 
-## 🎲 Full Stack Developer 
-## 📈 Data Analyst
-## 🚀 AI/ML Engineer
+# 🎲 Full Stack Developer 
+# 📈 Data Analyst
+# 🚀 AI/ML Engineer
 
 📍 **India**  
 📧 **Email:** [sanjay223060@gmail.com](mailto:sanjay223060@gmail.com)  
